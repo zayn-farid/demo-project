@@ -10,7 +10,7 @@ jobs:
 
       - image: circleci/openjdk:8-jdk
 
-    working_directory: ~/circleCI_Selenium_Demo
+    working_directory: ~/demo-project
 
     environment:
 
